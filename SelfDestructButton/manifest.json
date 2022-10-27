@@ -2,8 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
   "filename": "SelfDestructButton.dll",
   "author": "The Lore Explorer",
-  "name": "SelfDestructButton",
-  "uniqueName": "The Lore Explorer.SelfDestructButton",
+  "name": "Self Destruct Button",
+  "uniqueName": "TheLoreExplorer.SelfDestructButton",
   "version": "0.1.0",
   "owmlVersion": "2.7.2",
   "dependencies": []
