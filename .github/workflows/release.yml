@@ -11,7 +11,7 @@ on:
           type: boolean
 
 env:
-    PROJ_USERNAME: The Lore Explorer
+    PROJ_USERNAME: TheLoreExplorer
     PROJ_NAME: SelfDestructButton
 
 jobs:
